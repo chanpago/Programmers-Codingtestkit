@@ -22,6 +22,6 @@
 ### :bookmark: 힙
 | 문제 |  | 
 | ------------- |:-------------:|
-| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |[cpp](Heap/더맵게_정찬호.cpp)|
-| [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |[cpp](Heap/디스크컨트롤러_정찬호.cpp)|
-| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) ||[cpp](Heap/이중우선순위큐_정찬호.cpp)|
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |[cpp](힙/더맵게_정찬호.cpp)|
+| [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |[cpp](힙/디스크컨트롤러_정찬호.cpp)|
+| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) |[cpp](힙/이중우선순위큐_정찬호.cpp)|
