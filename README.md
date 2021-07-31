@@ -32,4 +32,4 @@
 | ------------- |:-------------:|
 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |[cpp](정렬/K번째%20수.cpp)|
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |[cpp](정렬/가장큰수_정찬호.cpp)|
-| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |[cpp](정렬/K-index_정찬호.cpp)|
+| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |[cpp](정렬/H-index_정찬호.cpp)|
