@@ -38,6 +38,6 @@
 ### :bookmark: 완전탐색
 | 문제 |  | 
 | ------------- |:-------------:|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp](완전탐색/모의고사.cpp)|
 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|
