@@ -33,3 +33,11 @@
 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |[cpp](정렬/K번째%20수.cpp)|
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |[cpp](정렬/가장큰수_정찬호.cpp)|
 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |[cpp](정렬/H-index_정찬호.cpp)|
+
+
+### :bookmark: 완전탐색
+| 문제 |  | 
+| ------------- |:-------------:|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|
+| [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|
